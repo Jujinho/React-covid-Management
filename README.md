@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Covid Management System
+Covid 19 Preparedness Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
